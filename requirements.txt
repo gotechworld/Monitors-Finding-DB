@@ -1,0 +1,15 @@
+streamlit
+supabase
+pandas
+numpy
+seaborn
+requests
+beautifulsoup4
+python-dotenv
+plotly
+matplotlib
+Pillow
+google-generativeai
+reportlab
+datetime
+

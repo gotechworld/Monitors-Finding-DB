@@ -38,16 +38,30 @@ __Note__: When running the container, you must provide your Google Gemini API KE
 
 </br>
 
-</br>
+![image](https://github.com/gotechworld/Monitors-Finding-DB/blob/main/images/tables.png)
 
 </br>
 
-</br>
+![image](https://github.com/gotechworld/Monitors-Finding-DB/blob/main/images/schema-visualizer.png)
 
 </br>
 
-</br>
+![image](https://github.com/gotechworld/Monitors-Finding-DB/blob/main/images/searches_table.png)
 
 </br>
+
+![image](https://github.com/gotechworld/Monitors-Finding-DB/blob/main/images/search_results_table.png)
+
+</br>
+
+![image](https://github.com/gotechworld/Monitors-Finding-DB/blob/main/images/monitor_specs_table.png)
+
+</br>
+
+![image](https://github.com/gotechworld/Monitors-Finding-DB/blob/main/images/price_history_table.png)
+
+</br>
+
+![image](https://github.com/gotechworld/Monitors-Finding-DB/blob/main/images/product_prices_table.png)
 
 </br>

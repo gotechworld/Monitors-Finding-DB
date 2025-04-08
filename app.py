@@ -856,7 +856,7 @@ with st.sidebar:
     
     st.markdown("---")
     st.markdown("### 🛠️ Dezvoltat de")
-    st.markdown("ionut.capota@processit.ro")
+    st.markdown("petru.giurca@pm.me")
     
     st.markdown("---")
     st.markdown("### 📊 Statistici")

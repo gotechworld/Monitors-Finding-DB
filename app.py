@@ -632,7 +632,7 @@ def generate_pdf(selected_categories, selected_options, specs, options):
         textColor=colors.grey,
         alignment=1  # Center alignment
     )
-    elements.append(Paragraph("© 2025 ionut.capota@processit.ro", footer_style))
+    elements.append(Paragraph("© 2025 petru.giurca@pm.me", footer_style))
     
     # Build PDF
     doc.build(elements)
@@ -1559,7 +1559,7 @@ with tab4:
                     fontSize=10,
                     textColor=colors.grey
                 )
-                elements.append(Paragraph(f"Generat de catre ionut.capota@processit.ro la: {time.strftime('%d-%m-%Y %H:%M:%S')}", date_style))
+                elements.append(Paragraph(f"Generat de catre petru.giurca@pm.me la: {time.strftime('%d-%m-%Y %H:%M:%S')}", date_style))
                 elements.append(Spacer(1, 24))
 
                 # Add introduction
@@ -1908,6 +1908,6 @@ with tab5:
 st.markdown("---")
 st.markdown("""
 <div style='text-align: center;'>
-    <p>© 2025 Dezvoltat cu ❤️ de ionut.capota@processit.ro </p>
+    <p>© 2025 Dezvoltat cu ❤️ de petru.giurca@pm.me </p>
 </div>
 """, unsafe_allow_html=True)
